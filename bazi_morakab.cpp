@@ -35,6 +35,11 @@ int main()
 
         std::cout << "false";
 
+
+
+
+    delete []arr;
+
         return 0;
 
 }
